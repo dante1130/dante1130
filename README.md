@@ -4,8 +4,7 @@
 - I’m looking to collaborate on ... anything!
 - How to reach me ... 
   - Email: andrewdante2@gmail.com
-  - Discord: Donte#1873
-  - Twitter: https://twitter.com/andrewdante1130
+  - Discord: Donte#1130
 
 <!---
 dante1130/dante1130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
