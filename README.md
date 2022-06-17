@@ -1,5 +1,5 @@
 # Hi, I’m @dante1130
-- I’m interested in ... games development, web development and artificial intelligence.
+- I’m interested in ... games development, graphics programming, web development and artificial intelligence.
 - I’m currently learning ... computer science and games technology in university.
 - I’m looking to collaborate on ... anything!
 - How to reach me ... 
