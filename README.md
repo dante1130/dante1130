@@ -1,8 +1,10 @@
 # Hi, I’m @dante1130
-- I’m interested in ... games development, graphics programming, web development and artificial intelligence.
-- I’m currently learning ... computer science and games technology in university.
-- I’m looking to collaborate on ... anything!
-- How to reach me ... 
+- I'm a graduate of Computer Science and Games Technology.
+- I’m interested in game engine development, games development, graphics programming, and web development.
+- I'm currently continuing to work on a game engine with my team in university, Reflex Engine.
+- I’m currently learning .NET framework with C#.
+- I’m looking to collaborate on anything!
+## How to reach me
   - Email: andrewdante2@gmail.com
   - Discord: Donte#1130
 
