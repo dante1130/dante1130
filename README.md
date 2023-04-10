@@ -1,6 +1,6 @@
 # Hi, I’m @dante1130
 
-- I'm a graduate of Computer Science and Games Technology.
+- I'm a Software Engineer in real-time simulations for mining machines.
 - I’m interested in game engine development, games development, graphics programming, and web development.
 - I’m currently learning the .NET framework and Japanese.
 - I’m looking to collaborate on anything!
