@@ -1,8 +1,8 @@
 # Hi, I’m @dante1130
 
-- I'm a software engineer in real-time simulations for mining machines.
+- I'm a software engineer in real-time simulations for mining technologies.
 - I’m interested in game engine development, games development, graphics programming, and web development.
-- I’m currently learning Rust.
+- I’m currently learning Rust and Neovim.
 - I’m looking to collaborate on anything!
 
 ## How to reach me
