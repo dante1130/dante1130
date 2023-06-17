@@ -17,7 +17,7 @@
 
 ## How to reach me
 
-- Email: andrewdante2@gmail.com
+- Email: andrew_ho_sy@proton.me
 - Discord: donte_
 <!---
 dante1130/dante1130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
