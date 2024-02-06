@@ -2,7 +2,7 @@
 
 - I'm a software engineer in real-time simulations for mining technologies.
 - I’m interested in game engine development, games development, graphics programming, and web development.
-- I’m currently learning Rust and Neovim.
+- I’m currently learning embedded programming.
 - I’m looking to collaborate on anything!
 
 ## My projects
